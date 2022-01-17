@@ -6,7 +6,7 @@ Training and testing will be performed with image data consisting of several cla
 1-DenseNet121
 DenseNet is one of the new discoveries in neural networks for visual 
 object recognition. DenseNet is quite like ResNet with some 
-fundamental differences as shown in Fig.2. ResNet uses an additive 
+fundamental differences. ResNet uses an additive 
 method that merges the previous layer (identity) with the future layer, 
 whereas DenseNet concatenates the output of the previous layer with the 
 future layer.
